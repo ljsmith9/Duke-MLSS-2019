@@ -1,6 +1,6 @@
 # Duke Machine Learning Summer School 2019
 
-Welcome to the [Duke-Tsinghua Machine Learning Summer School 2019](https://www.fuqua.duke.edu/machine-learning-summer-school)!
+Welcome to the [Duke-Tsinghua Machine Learning Summer School 2019](https://strategicplan.duke.edu/initiatives/machine-learning-summer-school/)!
 This repository will contain the lecture materials and assignments for the hands-on TensorFlow sessions.
 
 While there is no hard requirement to attend these sessions or complete the exercises, we do strongly recommend them!
